@@ -1,0 +1,5 @@
+{
+  "name": "AudioTranscribe & Translate",
+  "description": "Upload audio files to automatically transcribe, translate to Chinese, align timelines, and export SRT subtitles using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
